@@ -2,7 +2,7 @@
 
 ## 📋 Visão Geral
 
-Este projeto representa o **primeiro sistema corporativo** desenvolvido pela nossa nova área de desenvolvimento, utilizando tecnologias modernas e melhores práticas de mercado. A arquitetura foi desenhada para ser **escalável**, **segura** e **mantenível**, servindo como base para futuros projetos da empresa.
+Este projeto utiliza tecnologias modernas e melhores práticas de mercado. A arquitetura foi desenhada para ser **escalável**, **segura** e **mantenível**, servindo como base para projetos da empresa.
 
 ### Estratégia Tecnológica
 
