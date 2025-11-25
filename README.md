@@ -231,20 +231,6 @@ sudo systemctl reload nginx
 - **Payback estimado**: 6-8 meses
 - **Valor estratégico**: Base para digitalização da empresa
 
----
-
-## 📞 Suporte e Contato
-
-### Equipe Técnica
-- **DevOps**: infra@empresa.com
-- **Backend**: backend@empresa.com  
-- **Frontend**: frontend@empresa.com
-- **Security**: security@empresa.com
-
-### Emergency Contacts
-- **Production Issues**: +55 11 9999-9999
-- **Security Incidents**: security@empresa.com
-- **Database Issues**: dba@empresa.com
 
 ---
 
